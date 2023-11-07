@@ -1,2 +1,4 @@
 # trial
-Its my first
+Its my first Git Repository.
+<br>
+Author - Swati Kapgate
